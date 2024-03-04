@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayushi khurana</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Advance Backend Project**
+- 🔭 **Advance Backend Project**
 
-- 🌱 I’m currently learning **Node.js, Express**
+- 🌱 I’m currently working on **Node.js, Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
