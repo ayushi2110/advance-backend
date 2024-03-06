@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-import dbConnection from "./db/databaseConnection.js";
+import dbConnection from "./db/db.connection.js";
 import { APP_PORT } from "./constants.js";
 import { app } from "./app.js";
 
